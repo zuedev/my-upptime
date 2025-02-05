@@ -22,19 +22,19 @@
     "url": "https://termina.one",
     "icon": "https://icons.duckduckgo.com/ip3/termina.one.ico",
     "slug": "termina-one",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 151,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 232,
+    "timeDay": 143,
     "timeWeek": 138,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 12
     }
   },
   {
