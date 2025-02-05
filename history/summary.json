@@ -22,7 +22,7 @@
     "url": "https://termina.one",
     "icon": "https://icons.duckduckgo.com/ip3/termina.one.ico",
     "slug": "termina-one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 138,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "area96.digital",
