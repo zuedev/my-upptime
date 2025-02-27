@@ -4,18 +4,20 @@
     "url": "https://zue.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zue.dev.ico",
     "slug": "zue-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 181,
-    "timeWeek": 163,
-    "timeMonth": 178,
-    "timeYear": 170,
-    "dailyMinutesDown": {}
+    "time": 169,
+    "timeDay": 152,
+    "timeWeek": 158,
+    "timeMonth": 176,
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "termina.one",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/termina.one.ico",
     "slug": "termina-one",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 213,
     "timeDay": 138,
     "timeWeek": 161,
     "timeMonth": 169,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 13
     }
   },
   {
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/area96.digital.ico",
     "slug": "area96-digital",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 210,
     "timeDay": 234,
     "timeWeek": 224,
     "timeMonth": 229,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 13
     }
   },
   {
@@ -63,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pixel.build.ico",
     "slug": "pixel-build",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 143,
     "timeDay": 113,
     "timeWeek": 123,
     "timeMonth": 155,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 13
     }
   }
 ]
