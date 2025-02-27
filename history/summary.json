@@ -22,9 +22,9 @@
     "url": "https://termina.one",
     "icon": "https://icons.duckduckgo.com/ip3/termina.one.ico",
     "slug": "termina-one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 161,
     "timeMonth": 169,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "area96.digital",
     "url": "https://area96.digital",
     "icon": "https://icons.duckduckgo.com/ip3/area96.digital.ico",
     "slug": "area96-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +53,16 @@
     "timeWeek": 224,
     "timeMonth": 229,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "pixel.build",
     "url": "https://pixel.build",
     "icon": "https://icons.duckduckgo.com/ip3/pixel.build.ico",
     "slug": "pixel-build",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 123,
     "timeMonth": 155,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   }
 ]
