@@ -5,12 +5,8 @@ repo: my-upptime # The name of this repository
 sites:
   - name: zue.dev
     url: https://zue.dev
-  - name: termina.one
-    url: https://termina.one
-  - name: area96.digital
-    url: https://area96.digital
-  - name: pixel.build
-    url: https://pixel.build
+  - name: t1.termina.one
+    url: https://t1.termina.one
 
 status-website:
   theme: night
