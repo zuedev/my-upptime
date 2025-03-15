@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zue.dev.ico",
     "slug": "zue-dev",
     "status": "down",
-    "uptime": "76.02%",
+    "uptime": "76.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.99%",
-    "uptimeYear": "76.02%",
+    "uptimeMonth": "48.97%",
+    "uptimeYear": "76.01%",
     "time": 168,
     "timeDay": 212,
     "timeWeek": 193,
     "timeMonth": 167,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-03-15": 680,
+      "2025-03-15": 689,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -52,7 +52,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-03-15": 559
+      "2025-03-15": 569
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-03-15": 559
+      "2025-03-15": 569
     }
   },
   {
@@ -80,17 +80,17 @@
     "url": "https://unnamed.group",
     "icon": "https://icons.duckduckgo.com/ip3/unnamed.group.ico",
     "slug": "unnamed-group",
-    "status": "up",
-    "uptime": "25.17%",
-    "uptimeDay": "25.17%",
-    "uptimeWeek": "25.17%",
-    "uptimeMonth": "25.17%",
-    "uptimeYear": "25.17%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "status": "down",
+    "uptime": "26.38%",
+    "uptimeDay": "26.38%",
+    "uptimeWeek": "26.38%",
+    "uptimeMonth": "26.38%",
+    "uptimeYear": "26.38%",
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-03-15": 418
     }
