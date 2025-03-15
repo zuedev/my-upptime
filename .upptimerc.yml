@@ -9,6 +9,12 @@ sites:
     url: https://t1.zue.dev
   - name: 96.zue.dev
     url: https://96.zue.dev
+  - name: unnamed.group
+    url: https://unnamed.group
+  - name: teamsweets.com
+    url: https://teamsweets.com
+  - name: yayjaybae.com
+    url: https://yayjaybae.com
 
 status-website:
   theme: night
