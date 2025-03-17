@@ -8,7 +8,7 @@
     "uptime": "74.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.97%",
+    "uptimeMonth": "43.95%",
     "uptimeYear": "74.26%",
     "time": 170,
     "timeDay": 134,
@@ -16,6 +16,7 @@
     "timeMonth": 169,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2025-03-17": 8,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -53,6 +54,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2025-03-17": 8,
       "2025-03-16": 1440,
       "2025-03-15": 1320
     }
@@ -74,6 +76,7 @@
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2025-03-17": 8,
       "2025-03-16": 1440,
       "2025-03-15": 1320
     }
@@ -84,17 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unnamed.group.ico",
     "slug": "unnamed-group",
     "status": "down",
-    "uptime": "31.08%",
-    "uptimeDay": "31.27%",
-    "uptimeWeek": "31.08%",
-    "uptimeMonth": "31.08%",
-    "uptimeYear": "31.08%",
+    "uptime": "30.99%",
+    "uptimeDay": "30.73%",
+    "uptimeWeek": "30.99%",
+    "uptimeMonth": "30.99%",
+    "uptimeYear": "30.99%",
     "time": 176,
     "timeDay": 169,
     "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
+      "2025-03-17": 8,
       "2025-03-16": 989,
       "2025-03-15": 912
     }
