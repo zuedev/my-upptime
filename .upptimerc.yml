@@ -5,16 +5,28 @@ repo: my-upptime # The name of this repository
 sites:
   - name: zue.dev
     url: https://zue.dev
+    headers:
+      - "skip-waf: adhsjkyuqeiw763918673821"
   - name: t1.zue.dev
     url: https://t1.zue.dev
+    headers:
+      - "skip-waf: adhsjkyuqeiw763918673821"
   - name: 96.zue.dev
     url: https://96.zue.dev
+    headers:
+      - "skip-waf: adhsjkyuqeiw763918673821"
   - name: unnamed.group
     url: https://unnamed.group
+    headers:
+      - "skip-waf: adhsjkyuqeiw763918673821"
   - name: teamsweets.com
     url: https://teamsweets.com
+    headers:
+      - "skip-waf: adhsjkyuqeiw763918673821"
   - name: yayjaybae.com
     url: https://yayjaybae.com
+    headers:
+      - "skip-waf: adhsjkyuqeiw763918673821"
 
 status-website:
   theme: night
